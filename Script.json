@@ -1,1 +1,6 @@
-
+[
+  {
+    "ScriptName":"c# Test",
+    "Script":"private async void SetSupporters()",
+  }
+]
